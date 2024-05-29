@@ -1,0 +1,1 @@
+A collection of smaller programms from Harvard's CS50P. This course really helped me to further uderstand the core concepts of programming.
